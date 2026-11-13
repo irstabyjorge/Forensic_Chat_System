@@ -1,0 +1,59 @@
+{
+  "commit": "5cff5a476c159fd2d4075483c1155ca21edee872",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:00:55-08:00",
+      "sha": "5cff5a476c159fd2d4075483c1155ca21edee872",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "91719714052f6a4115d703e6daf013bf05ecdbea98bc9f3e48c30611f1be34a4",
+      "author_name_declared": "irstaxbyjorge",
+      "authored_at_declared": "2025-08-04T01:10:15-07:00",
+      "sha": "8825a41f8fea9c3a3b39bdfa717c81cc7a81fe01",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 3,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "9e031ae7bb0f575ad1c825e1400a1664f2832b06",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "41733923719a3fee6b959df4ccd80991adffde1003a563376c3f6e9c11073631"
+    },
+    {
+      "git_blob_oid": "142fe07594bcb1e2a659982f48504ecc156ab0b7",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "1b3d5f528dcc66959b29f71af8f93e991fa31e4f6aa5f92bab5525f745adb4c0"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T20:02:34.276370+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/pets-aegis-ipshield-coverage-20261113",
+  "ref_name": "pets-aegis-ipshield-coverage-20261113",
+  "repository": "irstabyjorge/Forensic_Chat_System",
+  "tree": "bb77ba8077e669e6743ea40500d2e593dbc112cc",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43496429294"
+}
